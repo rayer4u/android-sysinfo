@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SysInfoActivity!</string>
+    <string name="app_name">SysInfo</string>
+    <string name="fg_sys">系统</string>
+    <string name="fg_net">网络</string>
+    <string name="fg_prop">属性</string>
+    <string name="fg_log">日志</string>
+    <string name="fg_sensor">传感器</string>
+    <string name="fg_app">应用</string>
+    <string name="fg_account">帐号</string>
+    <string name="fg_appinfo">应用信息</string>
+    <string name="fg_pkginfo">包信息</string>
+    <string name="fg_componentsinfo">组件信息</string>
+    <string name="device_id">DeviceId:</string>
+    <string name="filter">过滤</string>
+    <string name="clear">清除</string>
+    <string name="export_folder">导出目录</string>
+    <string name="export_icon">导出icon</string>
+    <string name="property">信息</string>
+    <string name="certfication">证书</string>
+    <string name="rundefault">运行</string>
+    <string name="detail">详情</string>
+    <string name="clipadd">添加到剪贴板:</string>
+    <string name="sensorname">设备名称:</string>
+    <string name="sensorversion">设备版本:</string>
+    <string name="sensortypen">通用类型号:</string>
+    <string name="sensortypes">通用类型:</string>
+    <string name="sensorvender">设备商名称:</string>
+    <string name="sensorpower">传感器功耗:</string>
+    <string name="sensorresolution">传感器分辨率:</string>
+    <string name="sensormaxrange">传感器最大量程:</string>
+    <string name="cert_sigalgname">算法名:</string>
+    <string name="cert_publickey">公钥:</string>
+    <string name="cert_serialnumber">序列号:</string>
+    <string name="cert_subjectdn">主题:</string>
+    <string name="cert_printfinger">指纹:</string>
+    <string name="error_signature">错误的signature</string>
+    <string name="net_tcpdump">tcpdump</string>
+    <string name="error_getpackages">获取所有安装包错误，可能太多</string>
+</resources>
